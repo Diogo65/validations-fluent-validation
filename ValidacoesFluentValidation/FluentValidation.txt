@@ -1,0 +1,14 @@
+-ASP.NET Web API: framework para criação de web services RESTful no .NET Framework;
+
+-Entity Framework: framework de Mapeamento Objeto-Relacional que será 
+usado para acessar o banco de dados SQL Server;
+
+-Fluent API: conjunto de classes do Entity Framework por meio das quais é possível configurar o 
+Mapeamento Objeto-Relacional sem usar Data Annotations, mantendo essa tarefa isolada em uma classe;
+
+-FluentValidation: biblioteca gratuita e de código aberto para realização de validações em 
+classes usando Lambda Expressions. Neste exemplo essa biblioteca será utilizada para substituir
+ as Data Annotations e superar limitações destas;
+
+-OData: protocolo para criação de web services com listagem, paginação, filtro, 
+ordenação e seleção de campos a partir da URL.
